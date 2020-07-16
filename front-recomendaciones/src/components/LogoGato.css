@@ -1,0 +1,21 @@
+.main-svg {
+  width: 100%;
+  height: 100%;
+  transform: translate3d(0px, 0px, 0px);
+  display: none;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-none {
+  display: none;
+}
+
+.isologo-nav-big {
+  display: block;
+  margin: 0 auto;
+  max-width: 102px;
+  max-height: 150px;
+}
